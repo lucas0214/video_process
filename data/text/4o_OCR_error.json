@@ -1,0 +1,716 @@
+[
+    {
+        "videoID": "6DO8yOVYXr0",
+        "task_type": "OCR Problems",
+        "question": "What is the current score of the ongoing game?",
+        "options": [
+            "A. 3-2.",
+            "B. 2-3.",
+            "C. 2-2.",
+            "D. 3-3."
+        ],
+        "pred_answer": "D",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the current score of the ongoing game?\n['A. 3-2.', 'B. 2-3.', 'C. 2-2.', 'D. 3-3.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "zW87tVnDKIU",
+        "task_type": "OCR Problems",
+        "question": "What is the name of the second athlete performing the high jump at the beginning of the video?",
+        "options": [
+            "A. MUTAZ ESSA BARSHIM.",
+            "B. DEREK DROUIN.",
+            "C. BOHDAN BONDARENKO.",
+            "D. ERIK KYNARD."
+        ],
+        "pred_answer": "B",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the name of the second athlete performing the high jump at the beginning of the video?\n['A. MUTAZ ESSA BARSHIM.', 'B. DEREK DROUIN.', 'C. BOHDAN BONDARENKO.', 'D. ERIK KYNARD.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "vf3sPa2W0sA",
+        "task_type": "OCR Problems",
+        "question": "What was the score of the silver medalist in the last match shown in the video?",
+        "options": [
+            "A. 7.22m.",
+            "B. 7.14m.",
+            "C. 7.17m.",
+            "D. 7.15m."
+        ],
+        "pred_answer": "C",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat was the score of the silver medalist in the last match shown in the video?\n['A. 7.22m.', 'B. 7.14m.', 'C. 7.17m.', 'D. 7.15m.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "qeefjE74SXI",
+        "task_type": "OCR Problems",
+        "question": "What was the height of the first attempt of the championship-winning athlete in the video?",
+        "options": [
+            "A. 5.45m.",
+            "B. 5.60m.",
+            "C. 5.75m.",
+            "D. 6.00m."
+        ],
+        "pred_answer": "C",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat was the height of the first attempt of the championship-winning athlete in the video?\n['A. 5.45m.', 'B. 5.60m.', 'C. 5.75m.', 'D. 6.00m.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "_KU4X06VNiE",
+        "task_type": "OCR Problems",
+        "question": "As depicted in the video, what's the last name of the white team wearing number 13?",
+        "options": [
+            "A. Marry.",
+            "B. Lisa.",
+            "C. Lilly.",
+            "D. Karry."
+        ],
+        "pred_answer": "D",
+        "answer": "C",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nAs depicted in the video, what's the last name of the white team wearing number 13?\n['A. Marry.', 'B. Lisa.', 'C. Lilly.', 'D. Karry.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "RF86oSB6_bc",
+        "task_type": "OCR Problems",
+        "question": "What is the recommended brand of the shoe cleaner in this video?",
+        "options": [
+            "A. SNEAKER LAB.",
+            "B. JASON MARKK.",
+            "C. LEATHER HONEY.",
+            "D. CREP PROTECT."
+        ],
+        "pred_answer": "D",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the recommended brand of the shoe cleaner in this video?\n['A. SNEAKER LAB.', 'B. JASON MARKK.', 'C. LEATHER HONEY.', 'D. CREP PROTECT.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "DfZIv2FKWj4",
+        "task_type": "OCR Problems",
+        "question": "What is the score at the half time?",
+        "options": [
+            "A. England 3 v.s. Samoa 43.",
+            "B. England 34 v.s. Samoa 3.",
+            "C. England 3 v.s. Samoa 34.",
+            "D. England 43 v.s. Samoa 3."
+        ],
+        "pred_answer": "C",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the score at the half time?\n['A. England 3 v.s. Samoa 43.', 'B. England 34 v.s. Samoa 3.', 'C. England 3 v.s. Samoa 34.', 'D. England 43 v.s. Samoa 3.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "xre_3dxdhkQ",
+        "task_type": "OCR Problems",
+        "question": "What weight did the first girl in the video's female group attempt to bench press before failing?",
+        "options": [
+            "A. 150 lbs.",
+            "B. 140 lbs.",
+            "C. 160 lbs.",
+            "D. 155 lbs."
+        ],
+        "pred_answer": "B",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat weight did the first girl in the video's female group attempt to bench press before failing?\n['A. 150 lbs.', 'B. 140 lbs.', 'C. 160 lbs.', 'D. 155 lbs.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "B0-7MeWA2aI",
+        "task_type": "OCR Problems",
+        "question": "As depicted in this video, which of the following websites can help promote selling?",
+        "options": [
+            "A. Pinterest.",
+            "B. Facebook.",
+            "C. Shopify.",
+            "D. All of the above."
+        ],
+        "pred_answer": "D",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nAs depicted in this video, which of the following websites can help promote selling?\n['A. Pinterest.', 'B. Facebook.', 'C. Shopify.', 'D. All of the above.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "8UQFaVCV8S8",
+        "task_type": "OCR Problems",
+        "question": "After #41 completed his free throws, how many points was the team the author was rooting for ahead or behind the other team?",
+        "options": [
+            "A. 6 points ahead of the other team.",
+            "B. Trailing the other team by 12 points.",
+            "C. 12 points ahead of the other team.",
+            "D. Trailing the other team by 13 points."
+        ],
+        "pred_answer": "C",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nAfter #41 completed his free throws, how many points was the team the author was rooting for ahead or behind the other team?\n['A. 6 points ahead of the other team.', 'B. Trailing the other team by 12 points.', 'C. 12 points ahead of the other team.', 'D. Trailing the other team by 13 points.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "zIbNJCSCEjk",
+        "task_type": "OCR Problems",
+        "question": "According to the video, how much did the central bank drop interest rates during the epidemic?",
+        "options": [
+            "A. 5%.",
+            "B. 6%.",
+            "C. 1%.",
+            "D. 10%."
+        ],
+        "pred_answer": "C",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nAccording to the video, how much did the central bank drop interest rates during the epidemic?\n['A. 5%.', 'B. 6%.', 'C. 1%.', 'D. 10%.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "sf4qRY3h_eo",
+        "task_type": "OCR Problems",
+        "question": "Approximately how much time does the rocket in the video take from launch to when it reaches 1000km/h?",
+        "options": [
+            "A. 1min5s.",
+            "B. 55s.",
+            "C. 57s.",
+            "D. 1min30s."
+        ],
+        "pred_answer": "C",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nApproximately how much time does the rocket in the video take from launch to when it reaches 1000km/h?\n['A. 1min5s.', 'B. 55s.', 'C. 57s.', 'D. 1min30s.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "bepwr1-CNRU",
+        "task_type": "OCR Problems",
+        "question": "What is the driving range of Tesla Model X Long Range version on a single charge?",
+        "options": [
+            "A. 360 miles.",
+            "B. 353 miles.",
+            "C. 405 miles.",
+            "D. 340 milse."
+        ],
+        "pred_answer": "C",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the driving range of Tesla Model X Long Range version on a single charge?\n['A. 360 miles.', 'B. 353 miles.', 'C. 405 miles.', 'D. 340 milse.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "u_f0697yLBI",
+        "task_type": "OCR Problems",
+        "question": "What was the winning time of the men's 100-meter race that was shown first in the video?",
+        "options": [
+            "A. 9.58s.",
+            "B. 9.80s.",
+            "C. 9.63s.",
+            "D. 10.75s."
+        ],
+        "pred_answer": "C",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat was the winning time of the men's 100-meter race that was shown first in the video?\n['A. 9.58s.', 'B. 9.80s.', 'C. 9.63s.', 'D. 10.75s.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "vgWlRdNOGx4",
+        "task_type": "OCR Problems",
+        "question": "How many points does Ma Long win on serve in Game 1?",
+        "options": [
+            "A. 12.",
+            "B. 4.",
+            "C. 14.",
+            "D. 9."
+        ],
+        "pred_answer": "C",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nHow many points does Ma Long win on serve in Game 1?\n['A. 12.', 'B. 4.', 'C. 14.', 'D. 9.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "ooqdg9Wr-mo",
+        "task_type": "OCR Problems",
+        "question": "What food in the video is worth $750?",
+        "options": [
+            "A. Barbecue.",
+            "B. Crayfish.",
+            "C. Gold Flake Ice Cream.",
+            "D. Roast chicken."
+        ],
+        "pred_answer": "C",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat food in the video is worth $750?\n['A. Barbecue.', 'B. Crayfish.', 'C. Gold Flake Ice Cream.', 'D. Roast chicken.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "0JjgoicpYkU",
+        "task_type": "OCR Problems",
+        "question": "What time did the heroine in the video turn off her alarm clock?",
+        "options": [
+            "A. 8:24.",
+            "B. 9:24.",
+            "C. 6:24.",
+            "D. Not mentioned in the video."
+        ],
+        "pred_answer": "C",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat time did the heroine in the video turn off her alarm clock?\n['A. 8:24.', 'B. 9:24.', 'C. 6:24.', 'D. Not mentioned in the video.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "azJ5pk5reX0",
+        "task_type": "OCR Problems",
+        "question": "How many calories has the person in the video, who consumed a $100 golden burger, already eaten when he meets his teammate?",
+        "options": [
+            "A. 4660.",
+            "B. 5050.",
+            "C. 6070.",
+            "D. 8420."
+        ],
+        "pred_answer": "B",
+        "answer": "C",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nHow many calories has the person in the video, who consumed a $100 golden burger, already eaten when he meets his teammate?\n['A. 4660.', 'B. 5050.', 'C. 6070.', 'D. 8420.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "QtKT3q7xB4M",
+        "task_type": "OCR Problems",
+        "question": "What was the final score of the man in the video?",
+        "options": [
+            "A. 140.",
+            "B. 160.",
+            "C. 200.",
+            "D. 180."
+        ],
+        "pred_answer": "A",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat was the final score of the man in the video?\n['A. 140.', 'B. 160.', 'C. 200.', 'D. 180.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "DoFmXBjRGmk",
+        "task_type": "OCR Problems",
+        "question": "Which was the duration of the male protagonist's morning work in the video?",
+        "options": [
+            "A. Three hours.",
+            "B. Two hours and forty-five minutes.",
+            "C. Four hours.",
+            "D. Three hours and forty-five minutes."
+        ],
+        "pred_answer": "A",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhich was the duration of the male protagonist's morning work in the video?\n['A. Three hours.', 'B. Two hours and forty-five minutes.', 'C. Four hours.', 'D. Three hours and forty-five minutes.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "2NOcM1HoRRg",
+        "task_type": "OCR Problems",
+        "question": "What is the team's LAC hitting percentage when the score is 38-29?",
+        "options": [
+            "A. 48%.",
+            "B. 41%.",
+            "C. 56%.",
+            "D. 54%."
+        ],
+        "pred_answer": "D",
+        "answer": "C",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the team's LAC hitting percentage when the score is 38-29?\n['A. 48%.', 'B. 41%.', 'C. 56%.', 'D. 54%.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "EQ-67udZEeg",
+        "task_type": "OCR Problems",
+        "question": "Which of the following companies is not featured in the video?",
+        "options": [
+            "A. General Electric.",
+            "B. Starbucks.",
+            "C. Adobe.",
+            "D. Pepsi."
+        ],
+        "pred_answer": "B",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhich of the following companies is not featured in the video?\n['A. General Electric.', 'B. Starbucks.', 'C. Adobe.', 'D. Pepsi.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "HmnKbBmYii8",
+        "task_type": "OCR Problems",
+        "question": "According to the video, what is the frequency at which a seal needs to surface for air?",
+        "options": [
+            "A. Every 3 minutes.",
+            "B. Every 40 minutes.",
+            "C. Every 30 minutes.",
+            "D. Every 3 hours."
+        ],
+        "pred_answer": "B",
+        "answer": "C",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nAccording to the video, what is the frequency at which a seal needs to surface for air?\n['A. Every 3 minutes.', 'B. Every 40 minutes.', 'C. Every 30 minutes.', 'D. Every 3 hours.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "0rCbfsuKdYw",
+        "task_type": "OCR Problems",
+        "question": "What is the brand of the TV used with PS2 in the video?",
+        "options": [
+            "A. TOSHIBA.",
+            "B. BenQ.",
+            "C. SAMSUNG.",
+            "D. HITACHI."
+        ],
+        "pred_answer": "D",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the brand of the TV used with PS2 in the video?\n['A. TOSHIBA.', 'B. BenQ.', 'C. SAMSUNG.', 'D. HITACHI.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "2NOcM1HoRRg",
+        "task_type": "OCR Problems",
+        "question": "LAL completed the comeback with how much time left in the third quarter?",
+        "options": [
+            "A. 9.8s.",
+            "B. 5min32s.",
+            "C. 4min44s.",
+            "D. 6.3s."
+        ],
+        "pred_answer": "C",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nLAL completed the comeback with how much time left in the third quarter?\n['A. 9.8s.', 'B. 5min32s.', 'C. 4min44s.', 'D. 6.3s.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "BEIVOKz4zXw",
+        "task_type": "OCR Problems",
+        "question": "What is the setting for \"Grease The Musical\" as mentioned in the video?",
+        "options": [
+            "A. Sydney Opera House.",
+            "B. Broadway.",
+            "C. West End.",
+            "D. Rydell High."
+        ],
+        "pred_answer": "D",
+        "answer": "C",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the setting for \"Grease The Musical\" as mentioned in the video?\n['A. Sydney Opera House.', 'B. Broadway.', 'C. West End.', 'D. Rydell High.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "QHFy-nWNJYk",
+        "task_type": "OCR Problems",
+        "question": "Where does the video show them spending the night in the car?",
+        "options": [
+            "A. Seven Magic Mountains.",
+            "B. Las Vegas.",
+            "C. Death Valley.",
+            "D. Bryce Canyon."
+        ],
+        "pred_answer": "C",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhere does the video show them spending the night in the car?\n['A. Seven Magic Mountains.', 'B. Las Vegas.', 'C. Death Valley.', 'D. Bryce Canyon.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "0JjgoicpYkU",
+        "task_type": "OCR Problems",
+        "question": "How much money can you save by purchasing the course through the link and promo code shared by the heroine in the video?",
+        "options": [
+            "A. 11550 rubles.",
+            "B. 16500 rubles.",
+            "C. 4950 rubles.",
+            "D. 21,450 rubles."
+        ],
+        "pred_answer": "B",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nHow much money can you save by purchasing the course through the link and promo code shared by the heroine in the video?\n['A. 11550 rubles.', 'B. 16500 rubles.', 'C. 4950 rubles.', 'D. 21,450 rubles.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "55Jas5HrzcQ",
+        "task_type": "OCR Problems",
+        "question": "What missions have encountered the failures detailed in the video?",
+        "options": [
+            "A. Mission 1 and Mission 13.",
+            "B. Mission 11 and Mission 2.",
+            "C. Mission 8 and Mission 12.",
+            "D. Mission 10 and Mission 14."
+        ],
+        "pred_answer": "C",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat missions have encountered the failures detailed in the video?\n['A. Mission 1 and Mission 13.', 'B. Mission 11 and Mission 2.', 'C. Mission 8 and Mission 12.', 'D. Mission 10 and Mission 14.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "XRQ2L8BaI1A",
+        "task_type": "OCR Problems",
+        "question": "In which episode do Penny and Leonard get married in this video?",
+        "options": [
+            "A. Season 7, Episode 23.",
+            "B. Season 9, Episode 1.",
+            "C. Season 10, Episode 1.",
+            "D. Season 12, Episode 6."
+        ],
+        "pred_answer": "B",
+        "answer": "C",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nIn which episode do Penny and Leonard get married in this video?\n['A. Season 7, Episode 23.', 'B. Season 9, Episode 1.', 'C. Season 10, Episode 1.', 'D. Season 12, Episode 6.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "IGyx5UEwgtA",
+        "task_type": "OCR Problems",
+        "question": "Which of the following is not mentioned in the video?",
+        "options": [
+            "A. Four original jurisdictions possessed by federal courts.",
+            "B. Cases that the Supreme Court will not hear.",
+            "C. Cases that the Supreme Court will hear.",
+            "D. What happens when a case goes to the Supreme Court."
+        ],
+        "pred_answer": "A",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhich of the following is not mentioned in the video?\n['A. Four original jurisdictions possessed by federal courts.', 'B. Cases that the Supreme Court will not hear.', 'C. Cases that the Supreme Court will hear.', 'D. What happens when a case goes to the Supreme Court.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "kjwjDjQupLc",
+        "task_type": "OCR Problems",
+        "question": "What is the score at the end of the half?",
+        "options": [
+            "A. 38 - 31.",
+            "B. 38 - 34.",
+            "C. 67 - 61.",
+            "D. 67 - 60."
+        ],
+        "pred_answer": "A",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the score at the end of the half?\n['A. 38 - 31.', 'B. 38 - 34.', 'C. 67 - 61.', 'D. 67 - 60.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "IQcTd4xZ44o",
+        "task_type": "OCR Problems",
+        "question": "What is the time of the third athlete to reach the finish line in the video?",
+        "options": [
+            "A. 3:29.26.",
+            "B. 3:31.38.",
+            "C. 3:31.70.",
+            "D. 3:31.46."
+        ],
+        "pred_answer": "C",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the time of the third athlete to reach the finish line in the video?\n['A. 3:29.26.', 'B. 3:31.38.', 'C. 3:31.70.', 'D. 3:31.46.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "3m29MQ-qPfg",
+        "task_type": "OCR Problems",
+        "question": "When and where did the athlete and student first meet in the video?",
+        "options": [
+            "A. 12:30 PM in the car.",
+            "B. 12:30 PM in the canteen.",
+            "C. 12:30 PM in the classroom.",
+            "D. 12:00 PM in the classroom."
+        ],
+        "pred_answer": "B",
+        "answer": "C",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhen and where did the athlete and student first meet in the video?\n['A. 12:30 PM in the car.', 'B. 12:30 PM in the canteen.', 'C. 12:30 PM in the classroom.', 'D. 12:00 PM in the classroom.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "lNvBXLbInXE",
+        "task_type": "OCR Problems",
+        "question": "What is the second yoga pranayama method demonstrated by the man in the video?",
+        "options": [
+            "A. Markatasana.",
+            "B. Bhastrika.",
+            "C. Anulom vilom.",
+            "D. Kapalbhati."
+        ],
+        "pred_answer": "C",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the second yoga pranayama method demonstrated by the man in the video?\n['A. Markatasana.', 'B. Bhastrika.', 'C. Anulom vilom.', 'D. Kapalbhati.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "4iC9Qi3y9q8",
+        "task_type": "OCR Problems",
+        "question": "Which concept is not described in the video?",
+        "options": [
+            "A. The interplay of dark energy and the expansion of the universe.",
+            "B. The theoretical implications of the Cosmic Horizon on observations.",
+            "C. The Big Bang as a hypothetical explanation for the universe's origin.",
+            "D. The role of dark matter in shaping the early universe's structure."
+        ],
+        "pred_answer": "B",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhich concept is not described in the video?\n['A. The interplay of dark energy and the expansion of the universe.', 'B. The theoretical implications of the Cosmic Horizon on observations.', \"C. The Big Bang as a hypothetical explanation for the universe's origin.\", \"D. The role of dark matter in shaping the early universe's structure.\"]\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "RU8IfXp7LbE",
+        "task_type": "OCR Problems",
+        "question": "What time does the man in the video get up?",
+        "options": [
+            "A. 5:59 a.m.",
+            "B. 6:00 a.m.",
+            "C. 6:00 p.m.",
+            "D. 5:59 p.m."
+        ],
+        "pred_answer": "A",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat time does the man in the video get up?\n['A. 5:59 a.m.', 'B. 6:00 a.m.', 'C. 6:00 p.m.', 'D. 5:59 p.m.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "t6V9i8fFADI",
+        "task_type": "OCR Problems",
+        "question": "Which company is featured in the video but not mentioned in the audio?",
+        "options": [
+            "A. Coca-Cola.",
+            "B. Apple.",
+            "C. Dairy Queen.",
+            "D. American Express."
+        ],
+        "pred_answer": "C",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhich company is featured in the video but not mentioned in the audio?\n['A. Coca-Cola.', 'B. Apple.', 'C. Dairy Queen.', 'D. American Express.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "ce_uHxXsUWA",
+        "task_type": "OCR Problems",
+        "question": "Which question is not included in the frequently asked questions displayed on the website?",
+        "options": [
+            "A. How do I create a MyTrabelGov account?",
+            "B. What does the \"Renew Passport\" button look like in my account?",
+            "C. What is the processing time for renewals?",
+            "D. Why don't I see an option to \"Renew Passport\" in my account?"
+        ],
+        "pred_answer": "D",
+        "answer": "C",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhich question is not included in the frequently asked questions displayed on the website?\n['A. How do I create a MyTrabelGov account?', 'B. What does the \"Renew Passport\" button look like in my account?', 'C. What is the processing time for renewals?', 'D. Why don\\'t I see an option to \"Renew Passport\" in my account?']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "PYOyMK2Jw7g",
+        "task_type": "OCR Problems",
+        "question": "What is the result according to this video?",
+        "options": [
+            "A. Red team United won 4-3 after extra time.",
+            "B. Red team United won 3-2 in regular time.",
+            "C. White team won 4-3 after extra time.",
+            "D. White team won 3-2 after extra time."
+        ],
+        "pred_answer": "C",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the result according to this video?\n['A. Red team United won 4-3 after extra time.', 'B. Red team United won 3-2 in regular time.', 'C. White team won 4-3 after extra time.', 'D. White team won 3-2 after extra time.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "bOUSkh5PInA",
+        "task_type": "OCR Problems",
+        "question": "When was the first goal scored in the game?",
+        "options": [
+            "A. About 42:00 in the game.",
+            "B. About 68:00 in the game.",
+            "C. About 57:00 in the game.",
+            "D. About 32:00 in the game."
+        ],
+        "pred_answer": "D",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhen was the first goal scored in the game?\n['A. About 42:00 in the game.', 'B. About 68:00 in the game.', 'C. About 57:00 in the game.', 'D. About 32:00 in the game.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "FcP0mzWFCQU",
+        "task_type": "OCR Problems",
+        "question": "How many new McDonald's have opened in France from 2018-2023 in the video?",
+        "options": [
+            "A. 95.",
+            "B. 221.",
+            "C. 83.",
+            "D. 92."
+        ],
+        "pred_answer": "B",
+        "answer": "C",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nHow many new McDonald's have opened in France from 2018-2023 in the video?\n['A. 95.', 'B. 221.', 'C. 83.', 'D. 92.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "NeLj-gLWgug",
+        "task_type": "OCR Problems",
+        "question": "What time does the male protagonist in the video go out to relax?",
+        "options": [
+            "A. 7:30 PM.",
+            "B. 5:30 PM.",
+            "C. 4:30 PM.",
+            "D. 6:30 PM."
+        ],
+        "pred_answer": "C",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat time does the male protagonist in the video go out to relax?\n['A. 7:30 PM.', 'B. 5:30 PM.', 'C. 4:30 PM.', 'D. 6:30 PM.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "wNpA02SNgUg",
+        "task_type": "OCR Problems",
+        "question": "Which jump did the silver medalist in the video perform best?",
+        "options": [
+            "A. The last jump.",
+            "B. The second jump.",
+            "C. The first jump.",
+            "D. The third jump."
+        ],
+        "pred_answer": "B",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhich jump did the silver medalist in the video perform best?\n['A. The last jump.', 'B. The second jump.', 'C. The first jump.', 'D. The third jump.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "n3IYmdy6d4Y",
+        "task_type": "OCR Problems",
+        "question": "According to the video, how long should one wait before cracking the same knuckle again?",
+        "options": [
+            "A. About 25 minutes.",
+            "B. About 20 minutes.",
+            "C. About 15 minutes.",
+            "D. About 23 minutes."
+        ],
+        "pred_answer": "A",
+        "answer": "B",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nAccording to the video, how long should one wait before cracking the same knuckle again?\n['A. About 25 minutes.', 'B. About 20 minutes.', 'C. About 15 minutes.', 'D. About 23 minutes.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "2Gg4OQo7-zA",
+        "task_type": "OCR Problems",
+        "question": "What was the final score set at in the first game?",
+        "options": [
+            "A. 3-0.",
+            "B. 2-1.",
+            "C. 1-2.",
+            "D. 0-3."
+        ],
+        "pred_answer": "C",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat was the final score set at in the first game?\n['A. 3-0.', 'B. 2-1.', 'C. 1-2.', 'D. 0-3.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "Zjl2vmy02As",
+        "task_type": "OCR Problems",
+        "question": "What time does the hero in the video get up in real life?",
+        "options": [
+            "A. 11:00 AM.",
+            "B. 7:00 AM.",
+            "C. 10:30 AM.",
+            "D. 10:00 AM."
+        ],
+        "pred_answer": "C",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat time does the hero in the video get up in real life?\n['A. 11:00 AM.', 'B. 7:00 AM.', 'C. 10:30 AM.', 'D. 10:00 AM.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "zPyWOtToo6E",
+        "task_type": "OCR Problems",
+        "question": "How long did it take the first runner to reach the finish line in the third race in the video?",
+        "options": [
+            "A. 55 seconds.",
+            "B. 54 seconds.",
+            "C. 53 seconds.",
+            "D. 2 minutes and 29 seconds."
+        ],
+        "pred_answer": "B",
+        "answer": "C",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nHow long did it take the first runner to reach the finish line in the third race in the video?\n['A. 55 seconds.', 'B. 54 seconds.', 'C. 53 seconds.', 'D. 2 minutes and 29 seconds.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "7tLtu3QT2OI",
+        "task_type": "OCR Problems",
+        "question": "How many scores does Fiji get at the very end of the first half?",
+        "options": [
+            "A. 1.",
+            "B. 3.",
+            "C. 5.",
+            "D. 7."
+        ],
+        "pred_answer": "A",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nHow many scores does Fiji get at the very end of the first half?\n['A. 1.', 'B. 3.', 'C. 5.', 'D. 7.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "y9Fne3oUwX4",
+        "task_type": "OCR Problems",
+        "question": "As one team enjoys pizza, how many tasks has the other team completed?",
+        "options": [
+            "A. 11.",
+            "B. 15.",
+            "C. 12.",
+            "D. 26."
+        ],
+        "pred_answer": "B",
+        "answer": "A",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nAs one team enjoys pizza, how many tasks has the other team completed?\n['A. 11.', 'B. 15.', 'C. 12.', 'D. 26.']\n\nAnswer the question with A, B, C, or D."
+    },
+    {
+        "videoID": "elprD1hnDyU",
+        "task_type": "OCR Problems",
+        "question": "What is the maximum weight that the woman in the video can successfully bench press?",
+        "options": [
+            "A. 50 kilograms.",
+            "B. 55 kilograms.",
+            "C. 60 kilograms.",
+            "D. 57.5 kilograms."
+        ],
+        "pred_answer": "B",
+        "answer": "D",
+        "input": "Select the best answer to the following multiple-choice question based on the video and the subtitles. Respond with only the letter (A, B, C, or D) of the correct option.\nWhat is the maximum weight that the woman in the video can successfully bench press?\n['A. 50 kilograms.', 'B. 55 kilograms.', 'C. 60 kilograms.', 'D. 57.5 kilograms.']\n\nAnswer the question with A, B, C, or D."
+    }
+]
